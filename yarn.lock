@@ -309,10 +309,10 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@next/env@14.2.4":
-  version "14.2.4"
-  resolved "https://registry.npmjs.org/@next/env/-/env-14.2.4.tgz"
-  integrity sha512-3EtkY5VDkuV2+lNmKlbkibIJxcO4oIHEhBWne6PaAp+76J9KoSsGvNikp6ivzAT8dhhBMYrm6op2pS1ApG0Hzg==
+"@next/env@14.2.15":
+  version "14.2.15"
+  resolved "https://registry.npmjs.org/@next/env/-/env-14.2.15.tgz"
+  integrity sha512-S1qaj25Wru2dUpcIZMjxeMVSwkt8BK4dmWHHiBuRstcIyOsMapqT4A4jSB6onvqeygkSSmOkyny9VVx8JIGamQ==
 
 "@next/eslint-plugin-next@14.2.4":
   version "14.2.4"
@@ -321,10 +321,10 @@
   dependencies:
     glob "10.3.10"
 
-"@next/swc-win32-x64-msvc@14.2.4":
-  version "14.2.4"
-  resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.4.tgz"
-  integrity sha512-tkLrjBzqFTP8DVrAAQmZelEahfR9OxWpFR++vAI9FBhCiIxtwHwBHC23SBHCTURBtwB4kc/x44imVOnkKGNVGg==
+"@next/swc-win32-x64-msvc@14.2.15":
+  version "14.2.15"
+  resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.15.tgz"
+  integrity sha512-SzqGbsLsP9OwKNUG9nekShTwhj6JSB9ZLMWQ8g1gG6hdE5gQLncbnbymrwy2yVmH9nikSLYRYxYMFu78Ggp7/g==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -2200,12 +2200,12 @@ next-transpile-modules@^10.0.1:
   dependencies:
     enhanced-resolve "^5.10.0"
 
-next@^14.2.4:
-  version "14.2.4"
-  resolved "https://registry.npmjs.org/next/-/next-14.2.4.tgz"
-  integrity sha512-R8/V7vugY+822rsQGQCjoLhMuC9oFj9SOi4Cl4b2wjDrseD0LRZ10W7R6Czo4w9ZznVSshKjuIomsRjvm9EKJQ==
+next@^14.2.15:
+  version "14.2.15"
+  resolved "https://registry.npmjs.org/next/-/next-14.2.15.tgz"
+  integrity sha512-h9ctmOokpoDphRvMGnwOJAedT6zKhwqyZML9mDtspgf4Rh3Pn7UTYKqePNoDvhsWBAO5GoPNYshnAUGIazVGmw==
   dependencies:
-    "@next/env" "14.2.4"
+    "@next/env" "14.2.15"
     "@swc/helpers" "0.5.5"
     busboy "1.6.0"
     caniuse-lite "^1.0.30001579"
@@ -2213,15 +2213,15 @@ next@^14.2.4:
     postcss "8.4.31"
     styled-jsx "5.1.1"
   optionalDependencies:
-    "@next/swc-darwin-arm64" "14.2.4"
-    "@next/swc-darwin-x64" "14.2.4"
-    "@next/swc-linux-arm64-gnu" "14.2.4"
-    "@next/swc-linux-arm64-musl" "14.2.4"
-    "@next/swc-linux-x64-gnu" "14.2.4"
-    "@next/swc-linux-x64-musl" "14.2.4"
-    "@next/swc-win32-arm64-msvc" "14.2.4"
-    "@next/swc-win32-ia32-msvc" "14.2.4"
-    "@next/swc-win32-x64-msvc" "14.2.4"
+    "@next/swc-darwin-arm64" "14.2.15"
+    "@next/swc-darwin-x64" "14.2.15"
+    "@next/swc-linux-arm64-gnu" "14.2.15"
+    "@next/swc-linux-arm64-musl" "14.2.15"
+    "@next/swc-linux-x64-gnu" "14.2.15"
+    "@next/swc-linux-x64-musl" "14.2.15"
+    "@next/swc-win32-arm64-msvc" "14.2.15"
+    "@next/swc-win32-ia32-msvc" "14.2.15"
+    "@next/swc-win32-x64-msvc" "14.2.15"
 
 node-releases@^2.0.18:
   version "2.0.18"
